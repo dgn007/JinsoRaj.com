@@ -1,7 +1,7 @@
-jithumon.in
+JinsoRaj.com
 ======================
 
-Github repo for Jithu's Website
+Github repo for Jinso's Website
 
 ## How to get your own?
 1. Fork the repo
